@@ -1,0 +1,10 @@
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+
+1) Inicio
+2) Que ingrese un número el usuario
+3) En el caso que no esté el valor del número entre 2 y 6, no se aplica la tabla de multiplicar
+4) Si está el valor del número entre 2 y 6, se aplica la tabla de multiplicar
+5) Se desarrolla la multiplicación con el valor del número
+6) Se verifica las respuestas 
+7) Presentar los resultados
+8) Fin
